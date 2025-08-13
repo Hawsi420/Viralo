@@ -2,12 +2,7 @@
   "servers": [
     {
       "name": "🌐 Server 1",
-      "url": "https://github.com/Hawsi420/Seekho-auto-login-/raw/refs/heads/main/com.seekho.android2.zip",
-      "status": "[ Working ✅ ]"
-},
-{
-      "name": "🌐 Server 2",
-      "url": "https://github.com/Hawsi420/Seekho-auto-login-/raw/refs/heads/main/com.seekho.androie2.zip",
+      "url": "https://github.com/Hawsi420/Viralo/raw/refs/heads/main/com.viralo.zip",
       "status": "[ Working ✅ ]"
 }
   ],
